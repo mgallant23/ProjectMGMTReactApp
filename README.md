@@ -1,4 +1,4 @@
-Simple project management application built with Reactjs, HTML, CSS and JSON Placeholder API
+Simple project management application built with HTML, CSS, JQuery, JSON Placeholder API and Reactjs 
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
